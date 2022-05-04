@@ -195,6 +195,7 @@ df4
 ### Feature encoding using One Hot Encoder
 ![out](./img/enc5.png)
 ### Feature encoding using Label Encoder
+![out](./img/enc6i.png)
 ![out](./img/enc6.png)
 ### Feature scaling using Standard Scaler
 ![out](./img/enc7.png)
